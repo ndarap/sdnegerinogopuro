@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Profil",
-    "currentPage": "page8.html",
+    "currentPage": "index.html",
     "ai": {
       "imageSearchQuery": "business"
     },
