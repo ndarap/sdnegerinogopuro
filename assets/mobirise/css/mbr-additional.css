@@ -8486,10 +8486,60 @@ a {
     padding: 1rem;
   }
 }
+.cid-ugljPEBojb {
+  display: flex;
+  padding-top: 2rem;
+  padding-bottom: 0rem;
+  background-image: url("../../../assets/images/untitled-design-1920x1080.jpg");
+}
+.cid-ugljPEBojb .mbr-overlay {
+  background-color: #000000;
+  opacity: 0.5;
+}
+@media (min-width: 768px) {
+  .cid-ugljPEBojb {
+    align-items: flex-end;
+  }
+  .cid-ugljPEBojb .row {
+    justify-content: center;
+  }
+  .cid-ugljPEBojb .content-wrap {
+    padding: 1rem 3rem;
+  }
+}
+@media (max-width: 991px) and (min-width: 768px) {
+  .cid-ugljPEBojb .content-wrap {
+    min-width: 50%;
+  }
+}
+@media (max-width: 767px) {
+  .cid-ugljPEBojb {
+    -webkit-align-items: center;
+    align-items: flex-end;
+  }
+  .cid-ugljPEBojb .mbr-row {
+    -webkit-justify-content: center;
+    justify-content: center;
+  }
+  .cid-ugljPEBojb .content-wrap {
+    width: 100%;
+  }
+}
+.cid-ugljPEBojb .mbr-section-title,
+.cid-ugljPEBojb .mbr-section-subtitle {
+  text-align: center;
+}
+.cid-ugljPEBojb .mbr-text,
+.cid-ugljPEBojb .mbr-section-btn {
+  text-align: center;
+}
+.cid-ugljPEBojb .mbr-section-title {
+  color: #000000;
+}
 .cid-ueEwEyKnhC {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #edefeb;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background-image: url("../../../assets/images/visi-sekolah-dasar-negeri-nogopuro6-1920x1080.png");
 }
 .cid-ueEwEyKnhC .item {
   margin-bottom: 2rem;
