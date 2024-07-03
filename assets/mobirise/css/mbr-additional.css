@@ -2080,6 +2080,56 @@ a {
     padding: 1rem;
   }
 }
+.cid-uhvBK5cEex {
+  display: flex;
+  padding-top: 1rem;
+  padding-bottom: 0rem;
+  background-image: url("../../../assets/images/untitled-design-1920x1080.jpg");
+}
+.cid-uhvBK5cEex .mbr-overlay {
+  background-color: #000000;
+  opacity: 0.5;
+}
+@media (min-width: 768px) {
+  .cid-uhvBK5cEex {
+    align-items: flex-end;
+  }
+  .cid-uhvBK5cEex .row {
+    justify-content: center;
+  }
+  .cid-uhvBK5cEex .content-wrap {
+    padding: 1rem 3rem;
+  }
+}
+@media (max-width: 991px) and (min-width: 768px) {
+  .cid-uhvBK5cEex .content-wrap {
+    min-width: 50%;
+  }
+}
+@media (max-width: 767px) {
+  .cid-uhvBK5cEex {
+    -webkit-align-items: center;
+    align-items: flex-end;
+  }
+  .cid-uhvBK5cEex .mbr-row {
+    -webkit-justify-content: center;
+    justify-content: center;
+  }
+  .cid-uhvBK5cEex .content-wrap {
+    width: 100%;
+  }
+}
+.cid-uhvBK5cEex .mbr-section-title,
+.cid-uhvBK5cEex .mbr-section-subtitle {
+  text-align: center;
+}
+.cid-uhvBK5cEex .mbr-text,
+.cid-uhvBK5cEex .mbr-section-btn {
+  text-align: center;
+}
+.cid-uhvBK5cEex .mbr-section-title {
+  color: #000000;
+}
 .cid-udhoeKltao {
   background-color: transparent;
 }
