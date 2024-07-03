@@ -1342,6 +1342,8 @@ a {
 }
 .cid-udkghEgAF7 {
   display: flex;
+  padding-top: 7rem;
+  padding-bottom: 5rem;
   background-image: url("../../../assets/images/img-20240524-wa0017-2000x1500.jpg");
 }
 .cid-udkghEgAF7 .mbr-overlay {
@@ -1387,7 +1389,7 @@ a {
 }
 .cid-ueCWTovn6w {
   padding-top: 4rem;
-  padding-bottom: 9rem;
+  padding-bottom: 0rem;
   background-color: #ffffff;
 }
 .cid-ueCWTovn6w .mbr-fallback-image.disabled {
@@ -4366,7 +4368,7 @@ a {
 .cid-ueEDSCIP8f {
   padding-top: 0rem;
   padding-bottom: 3rem;
-  background-color: #3969c2;
+  background-color: #3661af;
 }
 .cid-ueEDSCIP8f .item-subtitle {
   line-height: 1.2;
@@ -5055,8 +5057,8 @@ a {
   }
 }
 .cid-udSIfo4jaI {
-  padding-top: 9rem;
-  padding-bottom: 6rem;
+  padding-top: 6rem;
+  padding-bottom: 1rem;
   background-image: url("../../../assets/images/visi-sekolah-dasar-negeri-nogopuro6-1920x1080.png");
 }
 .cid-udSIfo4jaI .mbr-fallback-image.disabled {
@@ -5122,6 +5124,8 @@ a {
   text-align: center;
 }
 .cid-udSETBQmxO {
+  padding-top: 1rem;
+  padding-bottom: 0rem;
   background-color: #e1e1e1;
 }
 .cid-udSETBQmxO .mbr-fallback-image.disabled {
@@ -5143,7 +5147,7 @@ a {
   .cid-udSETBQmxO .image-wrap img {
     display: block;
     margin: auto;
-    width: 80%;
+    width: 60%;
   }
 }
 .cid-udSETBQmxO .row-links {
